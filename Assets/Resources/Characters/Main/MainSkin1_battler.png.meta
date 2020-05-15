@@ -1,0 +1,1219 @@
+fileFormatVersion: 2
+guid: 0a8fdc9208ef58c4ba932f03a6ffd86a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7857145811981518611
+    second: MainSkin1_battler_0
+  - first:
+      213: -7541399857301408477
+    second: MainSkin1_battler_1
+  - first:
+      213: -5617522587725029291
+    second: MainSkin1_battler_2
+  - first:
+      213: -3029535514508736342
+    second: MainSkin1_battler_3
+  - first:
+      213: -4282246395821060532
+    second: MainSkin1_battler_4
+  - first:
+      213: -8978047061067036908
+    second: MainSkin1_battler_5
+  - first:
+      213: -8239603318165064605
+    second: MainSkin1_battler_6
+  - first:
+      213: -7589508020723978062
+    second: MainSkin1_battler_7
+  - first:
+      213: -2474811807351585357
+    second: MainSkin1_battler_8
+  - first:
+      213: 8179378995655915916
+    second: MainSkin1_battler_9
+  - first:
+      213: 2822732927025313253
+    second: MainSkin1_battler_10
+  - first:
+      213: 8212885535736547448
+    second: MainSkin1_battler_11
+  - first:
+      213: -3024904734565911054
+    second: MainSkin1_battler_12
+  - first:
+      213: -5270213040108521586
+    second: MainSkin1_battler_13
+  - first:
+      213: 1103273716347506755
+    second: MainSkin1_battler_14
+  - first:
+      213: 2877105480574631168
+    second: MainSkin1_battler_15
+  - first:
+      213: -7638889992094868364
+    second: MainSkin1_battler_16
+  - first:
+      213: -4096344717012822661
+    second: MainSkin1_battler_17
+  - first:
+      213: -4997393205376937155
+    second: MainSkin1_battler_18
+  - first:
+      213: 2463213981019060713
+    second: MainSkin1_battler_19
+  - first:
+      213: 7848884577894104235
+    second: MainSkin1_battler_20
+  - first:
+      213: -7299347093578793396
+    second: MainSkin1_battler_21
+  - first:
+      213: 8099252356964816747
+    second: MainSkin1_battler_22
+  - first:
+      213: 8533329766100482998
+    second: MainSkin1_battler_23
+  - first:
+      213: 2859452991783150792
+    second: MainSkin1_battler_24
+  - first:
+      213: 4537208562314670848
+    second: MainSkin1_battler_25
+  - first:
+      213: -8696489895917416193
+    second: MainSkin1_battler_26
+  - first:
+      213: 2658243653311080658
+    second: MainSkin1_battler_27
+  - first:
+      213: 961992878435684063
+    second: MainSkin1_battler_28
+  - first:
+      213: -1171982612889299004
+    second: MainSkin1_battler_29
+  - first:
+      213: -4394893799279819768
+    second: MainSkin1_battler_30
+  - first:
+      213: 1833864805147698953
+    second: MainSkin1_battler_31
+  - first:
+      213: -1808364570472289876
+    second: MainSkin1_battler_32
+  - first:
+      213: -4260836010790904224
+    second: MainSkin1_battler_33
+  - first:
+      213: 6407270596190112028
+    second: MainSkin1_battler_34
+  - first:
+      213: 6810090256012887550
+    second: MainSkin1_battler_35
+  - first:
+      213: 5416445058083525658
+    second: MainSkin1_battler_36
+  - first:
+      213: 5434331363338830781
+    second: MainSkin1_battler_37
+  - first:
+      213: -6736250063403303230
+    second: MainSkin1_battler_38
+  - first:
+      213: 475868491568549226
+    second: MainSkin1_battler_39
+  - first:
+      213: -2295503053700842546
+    second: MainSkin1_battler_40
+  - first:
+      213: 7979494338237349038
+    second: MainSkin1_battler_41
+  - first:
+      213: 3456010282159112304
+    second: MainSkin1_battler_42
+  - first:
+      213: -948569288287760935
+    second: MainSkin1_battler_43
+  - first:
+      213: -2549150926677251858
+    second: MainSkin1_battler_44
+  - first:
+      213: 9054041620921656710
+    second: MainSkin1_battler_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 53
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainSkin1_battler_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 320
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5629e1804b0359b408f9a8de75089c27
+      internalID: -7857145811981518611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 320
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9cbb164f67cf544b1e7cb231419f2e
+      internalID: -7541399857301408477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 320
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c01e991664d4fe429c604f3fbf3c7d1
+      internalID: -5617522587725029291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 320
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccd030f2c065184084a5781500cb0f9
+      internalID: -3029535514508736342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 320
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd7665391747a4ea0dcf6fdd87f196
+      internalID: -4282246395821060532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 320
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07333454e3bde7c4d94a6df237572f6e
+      internalID: -8978047061067036908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 320
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965f88a354b26b84d84d6b99ed54a31b
+      internalID: -8239603318165064605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 320
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c035d7592aced499e1441f311382f7
+      internalID: -7589508020723978062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 320
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce621429e14283f489409fa5b25f7e33
+      internalID: -2474811807351585357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 258
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3da4da2742c6e49a67d5cc180b8384
+      internalID: 8179378995655915916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 257
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9157e25a79940ff4799b931a6ec32133
+      internalID: 2822732927025313253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 256
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f734544aa6963ff4d9c76a427ab50ec8
+      internalID: 8212885535736547448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b242f0daa3e6e2448e3d295546b4cbe
+      internalID: -3024904734565911054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 256
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4a002d066cbe040b5d6b704e1b689b
+      internalID: -5270213040108521586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 256
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b761bfc34fd9b1d429a23452d629d0a4
+      internalID: 1103273716347506755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 256
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804b8f73748fb1408141fda7e19d985
+      internalID: 2877105480574631168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 256
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22312ebfced372847a20e5d2e19082b0
+      internalID: -7638889992094868364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 256
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258095bab23ce004fbfba9eca54c268f
+      internalID: -4096344717012822661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 192
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7a050f62d766146be80fd5ef9942ce
+      internalID: -4997393205376937155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 192
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeb1dc574b0cf54eb503e1e9aacbe68
+      internalID: 2463213981019060713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 192
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48634c9a5aaf6b4697e3a9bad29527e
+      internalID: 7848884577894104235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69c2243be11da54c966a599be2e4d14
+      internalID: -7299347093578793396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 192
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9759ae87c16c44e45a43deffeeb98f75
+      internalID: 8099252356964816747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 192
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48b4f4ee4c88c4eb082532cb830418
+      internalID: 8533329766100482998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 192
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d791a457ae7e7f9489833226e02ad95f
+      internalID: 2859452991783150792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 192
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c105b7cbd392d5a45a1315f4219533f0
+      internalID: 4537208562314670848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_26
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 192
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88295fd63654c5441b5dfe22018e3309
+      internalID: -8696489895917416193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f457ebac8a008934a86dea035cc10b96
+      internalID: 2658243653311080658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 128
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c59f12efd727d34ba00dee51357309b
+      internalID: 961992878435684063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 128
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf39b8bb27df40468c8114c7fd5c0a4
+      internalID: -1171982612889299004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 57
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971bb8af4374f08409c66a0b05afe7e0
+      internalID: -4394893799279819768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 57
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0325d1854117dd24a8cfd348f12ca8db
+      internalID: 1833864805147698953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 128
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dbf774668a7c3458ed2949279cd003
+      internalID: -1808364570472289876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0a8a520437334e8eee3978cc0cd62
+      internalID: -4260836010790904224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b743febb908b6d241b9bcc7e725014dc
+      internalID: 6407270596190112028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 54
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4fe00289ab23f40a7fcd8ea484134a
+      internalID: 6810090256012887550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 64
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39801774e09b91541b8b26a6824a0ab8
+      internalID: 5416445058083525658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 64
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58efa377cb05a694e8e81e72c75156d5
+      internalID: 5434331363338830781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 64
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e8c59a82d0504b8f1a57e5aed4ff2
+      internalID: -6736250063403303230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 46
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ad454f5da35b44b5bab9115ee71a7
+      internalID: 475868491568549226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cbca172da9dc04198a305ceefe9afc
+      internalID: -2295503053700842546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8480b58024a14042ad64961438fdadc
+      internalID: 7979494338237349038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8795dbacd15257e438d35c5cc9dd94ad
+      internalID: 3456010282159112304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8e2c775810107438d5012a04ef5f84
+      internalID: -948569288287760935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_44
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f2cbd82bbb9e44ba3b8224c40b7d9f
+      internalID: -2549150926677251858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainSkin1_battler_45
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3222598b5cef54bbd09e8346bad73a
+      internalID: 9054041620921656710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 55d48dd622f447143a730213e48c2958
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
