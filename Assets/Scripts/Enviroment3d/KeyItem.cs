@@ -1,16 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class KeyItem : MonoBehaviour
 {
     [SerializeField]
-    private GameObject objectUnlock, textAction;
+    private GameObject textAction;
     private GameObject buttonAction;
     [SerializeField]
     private bool interacable = true;
     private GameController3D gc3d;
+    [SerializeField]
+    private UnityEvent keyEvent;
 
     private void Start()
     {
@@ -24,7 +27,7 @@ public class KeyItem : MonoBehaviour
         {
             textAction.GetComponent<Text>().text = "";
             gameObject.SetActive(false);
-            objectUnlock.GetComponent<OpenIronDoor>().locked = false;
+            keyEvent.Invoke();
             textAction.SetActive(false);
         }
     }
