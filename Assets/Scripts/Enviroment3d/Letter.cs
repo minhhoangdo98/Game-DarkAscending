@@ -22,6 +22,7 @@ public class Letter : MonoBehaviour
 
     private void ActionPerform()
     {
+        //Doc thu
         if (interacable)
         {
             ReadLetter();
@@ -41,8 +42,10 @@ public class Letter : MonoBehaviour
         }
     }
 
+    //Doc thu va dan cot truyen
     private void ReadLetter()
     {
+        //Kiem tra result va ngay tuong ung
         if (gc3d.result == "win")
         {
             switch (gc3d.ngay)
@@ -104,6 +107,7 @@ public class Letter : MonoBehaviour
         }
         else
         {
+            //Gameover
             switch (gc3d.languages)
             {
                 case "en":

@@ -61,15 +61,6 @@ public class PlayerController2d : MonoBehaviourPun
         anim.SetBool("Grounded", grounded);//animation khi dung yen tren mat dat (grounded = true)
         anim.SetFloat("Speed", Mathf.Abs(r2.velocity.x)); // Mathf.abs: tra ve gia tri duong ; r2.velocity.x: toc do hien tai, animation khi chay
         anim.SetBool("Death", death);//animation khi death
-
-        //if (!tHGameController.thBattle || tHGameController.isGameOver || tHGameController.isWin)//Kiem tra de cho phep dieu khien nhan vat
-        //{
-        //    dieuKhien = false;
-        //}
-        //if (tHGameController.thBattle)
-        //{
-        //    dieuKhien = true;
-        //}
     }
 
     private void JumpAndRun()

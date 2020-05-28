@@ -65,6 +65,7 @@ public class OpenIronDoor : MonoBehaviour
             }
     }
 
+    //Hand dong mo/dong cua
     IEnumerator OpenCloseDoor()
     {
         interacable = false;

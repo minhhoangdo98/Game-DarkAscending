@@ -30,7 +30,6 @@ public class CrawlerController : MonoBehaviour
     {
         if (walk || run || attack)
         {
-            //gameObject.GetComponent<Rigidbody>().MovePosition(transform.position - Vector3.right * speed * Time.deltaTime);
             transform.position = Vector3.MoveTowards(transform.position, player.transform.position, speed);
         }
     }
