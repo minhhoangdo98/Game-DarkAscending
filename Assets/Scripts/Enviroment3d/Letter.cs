@@ -1,18 +1,21 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class Letter : MonoBehaviour
 {
+    private GameController3D gc3d;
     [SerializeField]
-    private GameObject letterPanel, objectUnlock;
+    private GameObject letterPanel;
     private GameObject buttonAction;
     [SerializeField]
     private Text textLetter;
     [SerializeField]
     private bool interacable = true;
-    private GameController3D gc3d;
+    [SerializeField]
+    private UnityEvent actionPerformWhenRead;
 
     private void Start()
     {
@@ -26,6 +29,7 @@ public class Letter : MonoBehaviour
         if (interacable)
         {
             ReadLetter();
+            actionPerformWhenRead.Invoke();
         }
     }
 
@@ -61,7 +65,6 @@ public class Letter : MonoBehaviour
                             break;
                     }
                     letterPanel.SetActive(true);
-                    objectUnlock.GetComponent<OpenDoor>().locked = false;//Sau khi doc to giay thi mo khoa cua
                     break;
                 case 1:
                     switch (gc3d.languages)
@@ -74,7 +77,6 @@ public class Letter : MonoBehaviour
                             break;
                     }
                     letterPanel.SetActive(true);
-                    objectUnlock.GetComponent<DoorTo2D>().locked = false;
                     break;
                 case 2:
                     switch (gc3d.languages)
@@ -87,7 +89,6 @@ public class Letter : MonoBehaviour
                             break;
                     }
                     letterPanel.SetActive(true);
-                    objectUnlock.GetComponent<DoorTo2D>().locked = false;
                     break;
                 default:
                     switch (gc3d.languages)
@@ -100,7 +101,6 @@ public class Letter : MonoBehaviour
                             break;
                     }
                     letterPanel.SetActive(true);
-                    objectUnlock.GetComponent<DoorTo2D>().locked = false;
                     break;
             }
 

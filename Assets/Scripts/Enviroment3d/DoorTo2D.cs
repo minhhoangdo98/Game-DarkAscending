@@ -31,6 +31,16 @@ public class DoorTo2D : MonoBehaviour
         }         
     }
 
+    public void UnlockObject()
+    {
+        locked = false;
+    }
+
+    public void LockObject()
+    {
+        locked = true;
+    }
+
     private void ChangeText(Text actionText)
     {
         //Kiem tra result cua man choi 2d

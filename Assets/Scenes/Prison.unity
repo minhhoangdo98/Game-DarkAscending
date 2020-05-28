@@ -1936,7 +1936,25 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: enLockText
+      value: Locked (I need to check the letter first!)
+      objectReference: {fileID: 0}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: viLockText
+      value: "B\u1ECB kh\xF3a (T\xF4i c\u1EA7n ph\u1EA3i \u0111\u1ECDc l\xE1 th\u01B0
+        tr\u01B0\u1EDBc!)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: enOpenText
+      value: To the show
+      objectReference: {fileID: 0}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: viOpenText
+      value: "Tham gia tr\xF2 ch\u01A1i"
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
 --- !u!4 &1445471349 stripped
 Transform:
@@ -2587,6 +2605,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8291354068492840093, guid: 516790dd03bb59240bb0d5bd69d04db3,
         type: 3}
+      propertyPath: actionPerformWhenRead.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8291354068492840093, guid: 516790dd03bb59240bb0d5bd69d04db3,
+        type: 3}
       propertyPath: letterPanel
       value: 
       objectReference: {fileID: 1263884134426805316}
@@ -2600,6 +2623,31 @@ PrefabInstance:
       propertyPath: objectUnlock
       value: 
       objectReference: {fileID: 1445471350}
+    - target: {fileID: 8291354068492840093, guid: 516790dd03bb59240bb0d5bd69d04db3,
+        type: 3}
+      propertyPath: actionPerformWhenRead.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8291354068492840093, guid: 516790dd03bb59240bb0d5bd69d04db3,
+        type: 3}
+      propertyPath: actionPerformWhenRead.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8291354068492840093, guid: 516790dd03bb59240bb0d5bd69d04db3,
+        type: 3}
+      propertyPath: actionPerformWhenRead.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1445471351}
+    - target: {fileID: 8291354068492840093, guid: 516790dd03bb59240bb0d5bd69d04db3,
+        type: 3}
+      propertyPath: actionPerformWhenRead.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: UnlockObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 8291354068492840093, guid: 516790dd03bb59240bb0d5bd69d04db3,
+        type: 3}
+      propertyPath: actionPerformWhenRead.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 516790dd03bb59240bb0d5bd69d04db3, type: 3}
 --- !u!1 &2115063156 stripped
