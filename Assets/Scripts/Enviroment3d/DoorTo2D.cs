@@ -33,9 +33,11 @@ public class DoorTo2D : MonoBehaviour
 
     private void ChangeText(Text actionText)
     {
+        //Kiem tra result cua man choi 2d
         if (gc3d.result == "win")
-            switch (gc3d.ngay)
+            switch (gc3d.ngay)//Kiem tra ngay
             {
+                //Cac ngay dau thi can phai doc thu truoc
                 case 0:
                 case 1:
                 case 2:
@@ -53,7 +55,7 @@ public class DoorTo2D : MonoBehaviour
                     actionText.text = "To the show";
                     break;
                 case "vi":
-                    actionText.text = "Đi diễn";
+                    actionText.text = "Tham gia trò chơi";
                     break;
             }
         }
@@ -74,6 +76,7 @@ public class DoorTo2D : MonoBehaviour
         StartCoroutine(ToPlay2D());
     }
 
+    //Chuyen sang cho do 2d
     IEnumerator ToPlay2D()
     {
         interacable = false;

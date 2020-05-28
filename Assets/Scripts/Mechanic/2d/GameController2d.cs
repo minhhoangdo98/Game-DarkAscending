@@ -30,6 +30,7 @@ public class GameController2d : MonoBehaviourPunCallbacks
 
     private void Update()
     {
+        //Kiem tra cam move de bat dau game
         if (enableMoveCam)
         {
             cam.transform.Translate(new Vector3(0, -1 * Time.deltaTime * camSpeedStart));
@@ -49,6 +50,7 @@ public class GameController2d : MonoBehaviourPunCallbacks
 
         if (ready)
         {
+            //Kiem tra so luong readyObject bang voi so luong nguoi choi
             readyObj = GameObject.FindGameObjectsWithTag("ReadyObject");
             player = GameObject.FindGameObjectsWithTag("Player");
             if (readyObj.Length == player.Length)
@@ -60,6 +62,7 @@ public class GameController2d : MonoBehaviourPunCallbacks
 
     }
 
+    //Tang toc do theo thoi gian
     IEnumerator TangTocDo()
     {
         enableIncreseSpeed = false;
@@ -77,6 +80,7 @@ public class GameController2d : MonoBehaviourPunCallbacks
         enableIncreseSpeed = true;
     }
 
+    //Tao platform tu ben duoi
     IEnumerator SpawnPlatform()
     {
         enableSpawn = false;
@@ -114,6 +118,7 @@ public class GameController2d : MonoBehaviourPunCallbacks
 
     public void ButtonReady()
     {
+        //Khi bam nut ready se tao ra mot ReadyObject
         if (!ready)
         {
             ready = true;
@@ -122,6 +127,7 @@ public class GameController2d : MonoBehaviourPunCallbacks
         }           
     }
 
+    //Bat dau game sau khi bam ready
     private IEnumerator ReadyToGame()
     {
         PhotonNetwork.CurrentRoom.IsOpen = false;
@@ -146,6 +152,7 @@ public class GameController2d : MonoBehaviourPunCallbacks
         counting = false;
     }
 
+    //Tro choi ket thuc va quay tro lai che do 2d
     public IEnumerator To3D()
     {
         fadeOutBlack.SetActive(true);

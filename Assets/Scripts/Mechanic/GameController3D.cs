@@ -11,15 +11,17 @@ public class GameController3D : MonoBehaviour
 
     private void Start()
     {
+        //Khoi tao cac gia tri
         StartCoroutine(FadeInOutScreen(fadeInBlack));
-        ngay = PlayerPrefs.GetInt("ngay");
-        star = PlayerPrefs.GetInt("star");
+        ngay = PlayerPrefs.GetInt("ngay");//ngay de xac dinh cot truyen
+        star = PlayerPrefs.GetInt("star");//so diem dat duoc o vong choi 2d
         if (ngay >= 2)
         {
-            result = PlayerPrefs.GetString("result");
+            result = PlayerPrefs.GetString("result");//ket qua win hoac lose sau khi hoan thanh man choi 2d
         }
     }
 
+    //Lam screen toi/sang dan
     public IEnumerator FadeInOutScreen(GameObject screen)
     {
         screen.SetActive(true);
@@ -27,6 +29,7 @@ public class GameController3D : MonoBehaviour
         screen.SetActive(false);
     }
 
+    //Chuyen sand man hinh Gameover
     public IEnumerator ToGameover()
     {
         yield return new WaitForSeconds(1.5f);

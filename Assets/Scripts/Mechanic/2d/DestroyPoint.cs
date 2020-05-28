@@ -12,6 +12,7 @@ public class DestroyPoint : MonoBehaviourPun
     {
         gc2d = GameObject.FindGameObjectWithTag("GameController2d").GetComponent<GameController2d>();
     }
+    //Khi cham vao se huy object
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Dat"))
