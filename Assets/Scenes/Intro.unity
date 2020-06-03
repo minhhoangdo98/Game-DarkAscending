@@ -378,7 +378,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -2640,7 +2640,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -4106,7 +4106,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -5310,6 +5310,30 @@ PrefabInstance:
     - target: {fileID: 479918, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: EventPerform.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: EventPerform.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: EventPerform.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: EventPerform.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 661992591}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: EventPerform.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OpenCloseObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 661992591, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
+      propertyPath: EventPerform.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9c25864566bc2a7489bef25ecb47dd6c, type: 3}
@@ -7213,7 +7237,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -7524,7 +7548,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -11601,7 +11625,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 330.25, y: 243}
+  m_AnchoredPosition: {x: 330, y: 243}
   m_SizeDelta: {x: 662.7, y: 486.34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &3252062065194135656
