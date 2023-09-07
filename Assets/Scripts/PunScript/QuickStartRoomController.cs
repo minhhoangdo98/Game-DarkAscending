@@ -4,7 +4,7 @@ using UnityEngine;
 public class QuickStartRoomController : MonoBehaviourPunCallbacks
 {
     [SerializeField]
-    private int multiplayerSceneIndex; //Number for the build index to the multiplay scene.
+    private int multiplayerSceneIndex; //Số cho chỉ mục xây dựng cho cảnh nhiều người
     public override void OnEnable()
     {
         PhotonNetwork.AddCallbackTarget(this);
@@ -13,17 +13,17 @@ public class QuickStartRoomController : MonoBehaviourPunCallbacks
     {
         PhotonNetwork.RemoveCallbackTarget(this);
     }
-    public override void OnJoinedRoom() //Callback function for when we successfully create or join a room.
+    public override void OnJoinedRoom() //Chức năng gọi lại khi chúng tôi tạo hoặc tham gia phòng thành công.
     {
         Debug.Log("Joined Room");
         StartGame();
     }
-    private void StartGame() //Function for loading into the multiplayer scene.
+    private void StartGame() //Chức năng tải vào cảnh nhiều người chơi.
     {
         if (PhotonNetwork.IsMasterClient)
         {
             Debug.Log("Starting Game");
-            PhotonNetwork.LoadLevel(multiplayerSceneIndex); //because of AutoSyncScene all players who join the room will also be loaded into the multiplayer scene.
+            PhotonNetwork.LoadLevel(multiplayerSceneIndex); //vì AutoSyncScene, tất cả người chơi tham gia phòng cũng sẽ được tải vào cảnh nhiều người chơi.
         }
     }
 }

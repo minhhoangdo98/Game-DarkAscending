@@ -165,7 +165,7 @@ TextureImporter:
       213: 21300106
     second: Main_battler_53
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -185,6 +185,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -193,9 +195,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -216,11 +218,16 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -231,7 +238,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -242,7 +250,8 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -253,6 +262,31 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1400,6 +1434,61 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Main_battler_0: 21300000
+      Main_battler_1: 21300002
+      Main_battler_10: 21300020
+      Main_battler_11: 21300022
+      Main_battler_12: 21300024
+      Main_battler_13: 21300026
+      Main_battler_14: 21300028
+      Main_battler_15: 21300030
+      Main_battler_16: 21300032
+      Main_battler_17: 21300034
+      Main_battler_18: 21300036
+      Main_battler_19: 21300038
+      Main_battler_2: 21300004
+      Main_battler_20: 21300040
+      Main_battler_21: 21300042
+      Main_battler_22: 21300044
+      Main_battler_23: 21300046
+      Main_battler_24: 21300048
+      Main_battler_25: 21300050
+      Main_battler_26: 21300052
+      Main_battler_27: 21300054
+      Main_battler_28: 21300056
+      Main_battler_29: 21300058
+      Main_battler_3: 21300006
+      Main_battler_30: 21300060
+      Main_battler_31: 21300062
+      Main_battler_32: 21300064
+      Main_battler_33: 21300066
+      Main_battler_34: 21300068
+      Main_battler_35: 21300070
+      Main_battler_36: 21300072
+      Main_battler_37: 21300074
+      Main_battler_38: 21300076
+      Main_battler_39: 21300078
+      Main_battler_4: 21300008
+      Main_battler_40: 21300080
+      Main_battler_41: 21300082
+      Main_battler_42: 21300084
+      Main_battler_43: 21300086
+      Main_battler_44: 21300088
+      Main_battler_45: 21300090
+      Main_battler_46: 21300092
+      Main_battler_47: 21300094
+      Main_battler_48: 21300096
+      Main_battler_49: 21300098
+      Main_battler_5: 21300010
+      Main_battler_50: 21300100
+      Main_battler_51: 21300102
+      Main_battler_52: 21300104
+      Main_battler_53: 21300106
+      Main_battler_6: 21300012
+      Main_battler_7: 21300014
+      Main_battler_8: 21300016
+      Main_battler_9: 21300018
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

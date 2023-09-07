@@ -36,7 +36,7 @@ public class FirstPersonController : MonoBehaviour
         PlayerMovement(move.x, move.y);
     }
 
-    // PlayerMovement
+    // di chuyen
     private void PlayerMovement(float horizontal, float vertical)
     {
         bool grounded = controller.isGrounded;
@@ -57,7 +57,7 @@ public class FirstPersonController : MonoBehaviour
         prevGrounded = grounded;
     }
 
-    // PlayerRotation
+    // Xoay camera
     public void PlayerRotation(float horizontal, float vertical)
     {
         myTransform.Rotate(0f, horizontal * 12f, 0f);
@@ -65,4 +65,4 @@ public class FirstPersonController : MonoBehaviour
         rotation = Mathf.Clamp(rotation, -60f, 60f);
         cameraTransform.localEulerAngles = new Vector3(-rotation, cameraTransform.localEulerAngles.y, 0f);
     }
-};
+}
