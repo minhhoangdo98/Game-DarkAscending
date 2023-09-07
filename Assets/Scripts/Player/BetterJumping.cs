@@ -9,6 +9,7 @@ public class BetterJumping : MonoBehaviour
 
     Rigidbody2D r2d;
 
+    //Khoi tao
     void Start()
     {
         r2d = GetComponent<Rigidbody2D>();
@@ -24,6 +25,6 @@ public class BetterJumping : MonoBehaviour
         {
             r2d.velocity += Vector2.up * Physics2D.gravity.y * (upgravity - 1) * Time.deltaTime;
         }
-
+        //Han che luc nhay
     }
 }

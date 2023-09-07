@@ -8,11 +8,11 @@ public class GameSetupController : MonoBehaviour
 {
     public Transform[] spawnPoints;
     private int spawnPicker;
-    // This script will be added to any multiplayer scene
+    // Script này sẽ được thêm vào bất kỳ cảnh nhiều người chơi (chơi online)
     void Start()
     {
         spawnPicker = Random.Range(0, spawnPoints.Length);
-        CreatePlayer(); //Create a networked player object for each player that loads into the multiplayer scenes.
+        CreatePlayer(); //Tạo một đối tượng người chơi được nối mạng cho mỗi người chơi tải vào các cảnh nhiều người chơi
     }
     private void CreatePlayer()
     {
